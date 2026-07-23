@@ -6,7 +6,7 @@
 ## 🏆 Project Overview
 This repository contains the hardware designs and software stack for the "CropDrop Bot," an autonomous logistics robot. Developed for the **international e-Yantra Robotics Competition**, our system was engineered to navigate complex environments, manage payload logistics, and execute precise line-following tasks. 
 
-Out of over 1,000 participating teams globally, our project secured a place among the **Top 30 ranked teams**.
+Out of over 1,000 participating teams globally, our project secured a place among the **Top 20 ranked teams**.
 The robot bridges low-level precision hardware with high-level autonomous decision-making. 
 
 ### Hardware Specifications
