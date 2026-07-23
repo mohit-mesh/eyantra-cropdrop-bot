@@ -1,5 +1,7 @@
 # 📚 Project Documentation & Media
 
+This directory serves as the central hub for all non-code assets related to the CropDrop Bot. It includes system architecture diagrams, wiring schematics, and the progression of deliverables submitted for the e-Yantra Robotics Competition.
+
 ## 🏆 Task Progression & Video Demonstrations
 
 The e-Yantra competition was structured as a rigorous, multi-stage evaluation. Below is the chronological breakdown of our submissions, including the specific objectives and video evidence for each stage.
@@ -27,16 +29,21 @@ The e-Yantra competition was structured as a rigorous, multi-stage evaluation. B
 ### Phase 4: Physical Implementation & Tuning
 | Task | Objective | Deliverables / Media Links |
 | :--- | :--- | :--- |
-| **Task 4A** | Basic line following using PID coltrol loop and IR sensor arrays (Bang-Bang control). | [Watch Video](https://youtu.be/aEL1gqWH3DY) |
-| **Task 4B** | Reinforcement Learning control loop implementation for high-speed, stable line tracking. | [Watch Video](https://youtube.com/shorts/wZUuIbB0I8Q?feature=share) |
+| **Task 4A** | Basic line following using IR sensor arrays (PID control). | [Watch Video](https://youtube.com/shorts/gG-tcj1-eJs?feature=share) |
+| **Task 4B** | Reinforcement Learning implementation for high-speed, stable line tracking. | [Watch Video](https://youtube.com/shorts/Vpe7SxNsrb0?feature=share) |
 | **Task 4C** | Integration of payload actuation (servo manipulation) with locomotion. | [Watch Video](https://youtube.com/shorts/bxdxO41b7do?feature=share) |
 
-### Phase 5: Final System Integration ( STM32)
+### Phase 5: System Integration & Optimization
 | Task | Objective | Deliverables / Media Links |
 | :--- | :--- | :--- |
 | **Task 5A** | Establishing reliable ROS 2 to STM32 serial communication. | [Watch Video](https://youtube.com/shorts/iJJi3lMqJCQ?feature=share) |
 | **Task 5B** | Integration of high-level task logic with low-level physical control. | [Watch Video](https://youtube.com/shorts/guk6uJNxQB8?feature=share) |
-| **Task 5C** | **Final Theme Run:** Complete, autonomous execution of the logistics challenge. | [Watch Video](#) |
+
+### Phase 6: The Grand Finale
+| Task | Objective | Deliverables / Media Links |
+| :--- | :--- | :--- |
+| **Task 6** | **Final Theme Run:** Complete, autonomous execution of the entire logistics challenge. | [Watch Final Run Video 🌟](https://youtu.be/hnjJy23xpFI) |
+| **Bonus Task** | Implementation of advanced optimizations (e.g., faster route planning and extended payload capacity) for extra points. | [Watch Bonus Run Video 🚀](https://youtu.be/7lcOlLQVplg) |
 
 ---
 
