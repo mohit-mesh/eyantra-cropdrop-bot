@@ -22,9 +22,9 @@ The e-Yantra competition was structured as a rigorous, multi-stage evaluation. B
 ### Phase 3: Hardware Assembly & Setup
 | Task | Objective | Deliverables / Media Links |
 | :--- | :--- | :--- |
-| **Task 3A** | Physical arena preparation (Flex printing and spatial calibration). | <img width="960" height="1280" alt="Arena" src="https://github.com/user-attachments/assets/3c4ab6ad-a680-40f6-8e17-0341b8b163ab" />
+| **Task 3A** | Physical arena preparation (Flex printing and spatial calibration). | (<img width="960" height="1280" alt="Arena" src="https://github.com/user-attachments/assets/3c4ab6ad-a680-40f6-8e17-0341b8b163ab" />)
  |
-| **Task 3B** | Complete physical assembly of the robot (chassis, motors, sensors). | <img width="1079" height="1035" alt="Bot" src="https://github.com/user-attachments/assets/0258c1a4-a000-4a13-9225-5e72e98cf3ce" />
+| **Task 3B** | Complete physical assembly of the robot (chassis, motors, sensors). | (<img width="1079" height="1035" alt="Bot" src="https://github.com/user-attachments/assets/0258c1a4-a000-4a13-9225-5e72e98cf3ce" />)
  |
 | **Task 3C** | Hardware-in-the-loop testing and initial motor driver calibration. | [Watch Video](https://youtube.com/shorts/ha-Rx2h62M0?feature=share) |
 
