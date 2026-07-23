@@ -14,7 +14,6 @@ The robot bridges low-level precision hardware with high-level autonomous decisi
 * **Chassis & Mechanical:** Custom-modeled in Autodesk Fusion 360. The physical bot was specifically designed with a low center of gravity to ensure stability during dynamic movements and payload handling.
 
 ### Software Stack
-* **Framework:** ROS 2 (Humble) 
 * **Languages:** Python, C++
 * **Control Systems:** We implemented a hybrid control approach using **PID controllers** combined with **Reinforcement Learning** to achieve smooth, adaptable, and highly accurate line-following behaviors under varying conditions.
 
